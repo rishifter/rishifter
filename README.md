@@ -14,4 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### GitHub stats
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=rishifter&theme=solarized-dark&show_icons=true&count_private=true)
+
+### Profile Views
+![Profile views](https://gpvc.arturio.dev/rishifter)
  
